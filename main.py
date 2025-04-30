@@ -13,7 +13,7 @@ uart.init(9600, bits=8, parity=None, stop=1)
 sensor = TB600B(uart)
 
 # Initialize ZE40B sensor
-sensor_ze40b = ZE40B(uart_num=1, tx_pin=41, rx_pin=42, baud_rate=9600)
+# sensor_ze40b = ZE40B(uart_num=1, tx_pin=41, rx_pin=42, baud_rate=9600)
 
 # Initialize I2C and OLED display
 i2c = I2C(0, sda=Pin(4), scl=Pin(5))
