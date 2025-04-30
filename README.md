@@ -79,9 +79,11 @@ PM1.0: 12 µg/m³ PM2.5: 18 µg/m³ PM10: 20 µg/m³ CO: 5.4 ppm VOC: 0.12 ppm
 
 - [PMSA003A Datasheet (Plantower)](https://files.particle.io/datasheets/PM2.5-sensor/PMSA003A-Series-DataMan-EN-v2.6.pdf)
 - [ZE40B Datasheet](https://www.winsen-sensor.com/d/files/PDF/Gas%20Sensor/ZE40B.pdf)
+- [TB600B_CO](https://ecsense.com/wp-content/uploads/2021/01/TB600B_CO_10ppm_Technical-Specification20200513.pdf)
+- [SSD1306](https://robu.in/wp-content/uploads/2019/12/ER-OLEDM0.91-1_Datasheet_617717.pdf)
 
 
 ---
 
-Developed by [Astom Mondal]
+Developed by Astom Mondal
 
